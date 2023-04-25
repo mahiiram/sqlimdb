@@ -1,0 +1,9 @@
+
+
+SELECT * FROM `movies`;
+INSERT INTO `movies` (`ID`, `MOVIE-NAME`, `MEDIA`, `MOVIE_GENRE`, `MOVIE_REVIEW`, `ARTIST_SKILLS`, `ARTIST_ROLE`)
+ VALUES (NULL, 'Nitham Oru Vaanam', 'https://youtu.be/TMiCBtiB8is', 'love', '8', 'Acting, Dancing', 'Hero, Heroine'),
+ (NULL, 'Ponniyin Selvan P-I', 'https://youtu.be/D4qAQYlgZQs', 'Historical ,Action ,Love', '7', 'Acting', 'Heros, Heroines, supporting Actors,'), 
+(NULL, 'Ayothi', 'https://youtu.be/EUIhalCuqmM', 'Thriller', '8', 'Acting', 'Hero, Supporting Actor'), 
+(NULL, 'Pathu Thala', 'https://youtu.be/pnUUJY3HQZk', 'Action, Thriller', '5', 'Acting, Dancing', 'Hero, Heroine, Supporting Actor'),
+ (NULL, 'Varisu', 'https://youtu.be/9fux9swQ5AQ', 'Love, Comedy, Action', '6', 'Dancing, Singing, Acti‬ng', 'Hero, Heroine ');
